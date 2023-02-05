@@ -1,7 +1,7 @@
 # PatchGuardResearch
 Bypassing kernel patch protection runtime.
 
-As I wrote in the article. This is a dynamic PatchGuars bypass for Windows 10 Pro 22H2. The majority of AV's did not detected the bypass. Therefore, the source code of the driver is not publicly disclosed.
+As I wrote in the article. This is a dynamic PatchGuard bypass for Windows 10 Pro 22H2. The majority of AV's did not detected the bypass. Therefore, the source code of the driver is not publicly disclosed.
 
 Tools used:
 
