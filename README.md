@@ -6,6 +6,7 @@ As I wrote in the article. This is a dynamic PatchGuars bypass for Windows 10 Pr
 Tools used:
 
 [+] WinDgb Preview with KDNET
+
 [+] HEX DEREF PRO
 
 Skill requirement:
@@ -13,5 +14,6 @@ Skill requirement:
 [+] Advanced
 
 Pretty much all you need is there https://hexderef.com/bypass-patchguard
+
 If you have any questions. Just ask in https://overlayhack.com/patchguard-bypass
 
