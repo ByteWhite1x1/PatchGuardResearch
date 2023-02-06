@@ -6,7 +6,9 @@ As I wrote in the article. This is a dynamic PatchGuard bypass for Windows 10 Pr
 Tools used:
 
 [+] WinDgb Preview with KDNET
+
 [+] HEX DEREF PRO
+
 [+] IDA PRO
 
 Skill requirement:
