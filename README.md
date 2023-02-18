@@ -15,7 +15,7 @@ Skill requirement:
 
 [+] Advanced
 
-Pretty much all you need is there https://hexderef.com/bypass-patchguard
+Pretty much all you need is there https://hexderef.com/patchguard-bypass
 
 If you have any questions. Just ask in https://overlayhack.com/patchguard-bypass
 
