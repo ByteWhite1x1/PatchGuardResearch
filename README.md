@@ -7,7 +7,7 @@ Tools used:
 
 [+] WinDgb Preview with KDNET
 
-[+] HEX DEREF PRO
+[+] HEX DEREF X
 
 [+] IDA PRO
 
